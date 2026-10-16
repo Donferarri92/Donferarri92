@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm DonFerarri</h1>
 
 <p align="center">
-  Full-stack developer building ERP systems, web apps, and AI-powered tools.
+  Engineering leader & full-stack developer — squad governance, Agile/CI/CD delivery, and AI-powered tools.
 </p>
 
 ---
 
 ### What I work on
 
+- **Engineering leadership** — governing multi-disciplinary squads (up to 40+ engineers across AI/ML, backend, frontend, QA); Agile (Scrum/Kanban) ceremonies and CI/CD in Jira & Azure DevOps; 98%+ on-time milestone delivery.
 - **ERP engineering** — implementing and customizing **ERPNext (Frappe)** and **Odoo** for real businesses: inventory, marketplace, and operations platforms.
 - **Full-stack web** — **React** front-ends on **FastAPI / Node** back-ends, backed by **MongoDB** and **PostgreSQL**.
 - **AI tooling** — desktop and web apps wired into **Claude (AWS Bedrock)** and local **Whisper** speech-to-text.
